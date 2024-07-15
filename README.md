@@ -13,8 +13,8 @@ This process yielded 7000 protein fragments from the plant data subset, with 350
 # Train model: We use Google colab pro buid this model
 	- Cross validation: CV_LBiPlantUbi.ipynb
 	- Train model: Model_LBiPlantUbi.ipynb
-	  + save and name the trained model as LBiPlantUbi.h5
-   	  + You can use LBiPlantUbi.h5 in the saved_folder for predicting
+	  + Save and name the trained model as LBiPlantUbi.h5
+   	  + Use LBiPlantUbi.h5 in the saved_folder for predicting
 	- Independent test and predict: LBiPlantUBi_ID.ipynb
 # Contact
 Please feel free to contact us if you need any help: nvnui@ictu.edu.vn
