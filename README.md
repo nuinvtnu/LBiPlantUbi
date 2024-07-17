@@ -1,6 +1,6 @@
 # LbiPlantUbi
 
-LbiPlantUbi: The predictive model that incorporates deep learning model and natural language processing technique to predict plant ubiquitination sites. The model automatically learns features directly from raw protein sequences and integrates prediction into a single deep learning architecture.
+LbiPlantUbi: A Hybrid Deep Learning and Natural Language Processing Model for Plant Ubiquitination Site Prediction. The model automatically learns features directly from raw protein sequences and integrates prediction into a single deep learning architecture.
 # Requirement
 	- Keras
 	- Numpy
